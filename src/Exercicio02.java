@@ -9,7 +9,7 @@ public class Exercicio02 {
             System.out.printf("Digite o Valor " + contador + ":  ");
             x = sc.nextInt();
 
-            if (x > y) {
+            if (x > y || contador == 1) {
                 y = x;
             }
 
