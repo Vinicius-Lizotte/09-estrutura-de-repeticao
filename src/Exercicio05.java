@@ -24,6 +24,7 @@ public class Exercicio05 {
                 x1 = x2;
                 x2 = x3;
                 contador++;
+
             }
         }
     }
