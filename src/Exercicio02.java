@@ -5,7 +5,7 @@ public class Exercicio02 {
         Scanner sc = new Scanner(System.in);
         int x, y = 0, contador = 1;
 
-        while (contador <= 10){
+        while (contador <= 15){
             System.out.printf("Digite o Valor " + contador + ":  ");
             x = sc.nextInt();
 
